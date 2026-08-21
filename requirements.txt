@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+openpyxl
+rapidfuzz
+pyyaml
+python-multipart
+requests
+sentence-transformers

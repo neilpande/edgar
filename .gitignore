@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Cache (EDGAR JSON — can be large and regenerated)
+cache/facts/
+cache/company_tickers.json
+cache/tag_mappings.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / local config overrides
+.env
